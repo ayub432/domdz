@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.result{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+div p{
+    color: white;
+}
+
+.container{
+    width: 500px;
+    height: auto;
+    background-color: black;
+}
